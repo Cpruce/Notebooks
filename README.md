@@ -1,5 +1,5 @@
 # Notebooks
-##Example data science notebooks.
+<b>Example data science notebooks.</b>
 
 These notebooks are publicly-available samples of what I've learned along the way. 
 
